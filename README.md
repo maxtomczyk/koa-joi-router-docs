@@ -1,5 +1,8 @@
 # Koa-Joi-Router Docs Generator
 
+## Fork notice
+This fork resolves problems with koa-joi-router v8.0.0 making it possible again to generate docs. Hoverver, it's only temporary and probably will be deleted soon.
+
 This project is based on [paul42/joi-router-swagger-docs](https://github.com/paul42/joi-router-swagger-docs).
 
 A node module for generating [Swagger 2.0](http://swagger.io/) JSON
